@@ -1,1 +1,0 @@
-# BMCS3183-Advanced-Database-Management
